@@ -1,13 +1,13 @@
-<h1 align="center">👋 ¡Hola, soy Andrés Gómez!</h1>
+<h1 align="center">👋 ¡Hola, soy Javier Gómez!</h1>
 
 <p align="center">
   <strong>Médico Especialista en Salud Pública</strong> · <strong>Full-Stack Developer</strong> · <strong>Diseñador y E-Learning Innovator</strong>  
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andresgomezmd/"><img src="https://img.shields.io/badge/LinkedIn-Andrés%20Gómez-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:andresgomez.dev@gmail.com"><img src="https://img.shields.io/badge/Email-andresgomez.dev@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/andresgomezmd"><img src="https://img.shields.io/badge/GitHub-andresgomezmd-black?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/javiandgo/"><img src="https://img.shields.io/badge/LinkedIn-Andrés%20Gómez-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:jangocreative@gmail.com"><img src="https://img.shields.io/badge/Email-andresgomez.dev@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/javiandgo"><img src="https://img.shields.io/badge/GitHub-andresgomezmd-black?style=flat-square&logo=github"></a>
 </p>
 
 ---
@@ -28,8 +28,10 @@ Mi enfoque está en el **diseño de experiencias de aprendizaje, automatización
 
 | 🧩 Proyecto | 🌐 Descripción | 🛠️ Tecnologías |
 |--------------|----------------|----------------|
-| **PrismaLearn** | Plataforma SaaS de creación de cursos para profesionales de la salud, con exportación SCORM. | `Next.js` · `React` · `TailwindCSS` · `TypeScript` · `TipTap` |
-| **Aeghis HIS** | Sistema modular de información hospitalaria con arquitectura basada en microservicios. | `Java Spring Boot` · `Docker` · `PostgreSQL` |
+| **QATestPractice** | Plataforma de entrenamiento para pruebas QA End-to-End con 10 niveles de dificultad progresiva.. | `Pure PHP` · `Vanilla Javascript` · `Pure CSS` |
+| **TestFlow** | Plataforma para pruebas QA y pruebas automatizadas. | `Lavavel 12` · `Playwright` · `Bootstrap` |
+| **PrismaLearn** | Plataforma SaaS de creación de cursos para profesionales de la salud, con exportación SCORM. | `Next.js` · `React` · `TailwindCSS` · `TypeScript` · `TipTap` · `Docker` |
+| **EosHealth** | Sistema modular de información hospitalaria con arquitectura basada en microservicios. | `Java Spring Boot` · `Docker` · `PostgreSQL` |
 | **RIPS Processor** | Sistema de validación y análisis de RIPS (Resolución 2275/2023 - Colombia). | `CodeIgniter 4` · `PHP` · `MySQL` |
 | **IDCBIS Learning Hub** | Módulos educativos interactivos para formación en biotecnología y salud. | `Rise 360` · `Storyline 360` · `AI Graphics` |
 
@@ -55,8 +57,8 @@ Mi enfoque está en el **diseño de experiencias de aprendizaje, automatización
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andresgomezmd&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresgomezmd&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=javiandgo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiandgo&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -73,11 +75,11 @@ Mi enfoque combina el rigor científico con la creatividad tecnológica.
 ## 🌐 Contacto
 
 <p align="center">
-  📫 <strong>Email:</strong> <a href="mailto:andresgomez.dev@gmail.com">andresgomez.dev@gmail.com</a>  
+  📫 <strong>Email:</strong> <a href="mailto:jangocreative@gmail.com">jangocreative@gmail.com</a>  
   <br/>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/andresgomezmd/">linkedin.com/in/andresgomezmd</a>  
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/javiandgo/">linkedin.com/in/javiango</a>  
   <br/>
-  🧾 <strong>GitHub:</strong> <a href="https://github.com/andresgomezmd">github.com/andresgomezmd</a>
+  🧾 <strong>GitHub:</strong> <a href="https://github.com/javiandgo">github.com/javiandgo</a>
 </p>
 
 ---
