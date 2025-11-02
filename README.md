@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javiandgo/"><img src="https://img.shields.io/badge/LinkedIn-Andrés%20Gómez-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:jangocreative@gmail.com"><img src="https://img.shields.io/badge/Email-andresgomez.dev@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/javiandgo"><img src="https://img.shields.io/badge/GitHub-andresgomezmd-black?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/javiandgo/"><img src="https://img.shields.io/badge/LinkedIn-Javier%20Gómez-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:jangocreative@gmail.com"><img src="https://img.shields.io/badge/Email-jangocreative@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/javiandgo"><img src="https://img.shields.io/badge/GitHub-javiango-black?style=flat-square&logo=github"></a>
 </p>
 
 ---
